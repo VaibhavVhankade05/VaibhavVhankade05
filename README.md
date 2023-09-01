@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/chetan-rathod-8b0a14207/" target="_blank"> Vaibhav Vhankade </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/vaibhav-vhankade/" target="_blank"> Vaibhav Vhankade </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Java+Developer+%3A)" /> </h3>
 
 - 👀 I’m interested in Software Development
@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Java Projects
 
 <!---
-NikitaP012/NikitaP012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+VaibhavVhankade05/VaibhavVhankade05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="left" dir="auto">Connect with me:</h3>
@@ -38,6 +38,5 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left" dir="auto">Databases :</h3>
 <div align="left" dir="auto">
 <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
