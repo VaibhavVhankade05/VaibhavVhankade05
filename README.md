@@ -41,12 +41,18 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left" dir="auto">Languages :</h3>
 <div align="left" dir="auto">
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  
 <img alt="Python" src="https://img.shields.io/badge/python-%230769AD.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="JavaScript" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145" data-canonical-src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
+
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" style="max-width: 100%;">
+
 </div>
 
 <h3 align="left" dir="auto">Databases :</h3>
 <div align="left" dir="auto">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-%230075A8.svg?style=for-the-badge&logo=sql&logoColor=white" style="max-width: 100%;">
+
 <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
