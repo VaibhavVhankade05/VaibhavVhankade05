@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
   
-  <a href="mailto:example@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="vaibhavvhankade27@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%;">
 </a>
 
